@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "712267239373",
+    "firebase_url": "https://tourism-1-54508.firebaseio.com",
+    "project_id": "tourism-1-54508",
+    "storage_bucket": "tourism-1-54508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712267239373:android:a65ac1ed1949f681",
+        "android_client_info": {
+          "package_name": "smith.drake.kato.flashchatfirebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712267239373-ilvv41c26hp0bq89vcm07hvg92uv9kef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMGBWSp5LMsxVMUyghOpukXhOLX0VmWC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
